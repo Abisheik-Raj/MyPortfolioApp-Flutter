@@ -1,16 +1,8 @@
-# my_portfolio_app
+Welcome to my Flutter portfolio app! This application serves as a showcase of my skills, education, hobbies, and projects. It provides a comprehensive overview of my technical background and allows you to connect with me through various social media platforms.
 
-A Flutter project to showcase my technical skills
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features:
+Tech Stack: Explore the technologies I work with.
+Education: Learn about my academic background.
+Projects: Check out the projects I've worked on.
+Hobbies: Discover my interests outside of the tech world.
+Social Media: Connect with me on different platforms.
